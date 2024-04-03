@@ -4,7 +4,6 @@ Common utility functions useful throughout the contentstore
 from __future__ import annotations
 import configparser
 import logging
-import re
 from collections import defaultdict
 from contextlib import contextmanager
 from datetime import datetime, timezone
@@ -66,7 +65,6 @@ from openedx.core.djangoapps.site_configuration import helpers as configuration_
 from openedx.core.djangoapps.site_configuration.models import SiteConfiguration
 from openedx.core.djangoapps.models.course_details import CourseDetails
 from openedx.core.lib.courses import course_image_url
-from openedx.core.lib.html_to_text import html_to_text
 from openedx.features.content_type_gating.models import ContentTypeGatingConfig
 from openedx.features.content_type_gating.partitions import CONTENT_TYPE_GATING_SCHEME
 from openedx.features.course_experience.waffle import ENABLE_COURSE_ABOUT_SIDEBAR_HTML
@@ -2216,7 +2214,6 @@ def send_course_update_notification(course_key, content, user):
     """
     Send course update notification
     """
-    text_content = re.sub(r"(\s|&nbsp;|//)+", " ", html_to_text(content))
     course = modulestore().get_course(course_key)
     extra_context = {
         'author_id': user.id,
@@ -2225,7 +2222,7 @@ def send_course_update_notification(course_key, content, user):
     notification_data = CourseNotificationData(
         course_key=course_key,
         content_context={
-            "course_update_content": text_content,
+            "course_update_content": content["content"],
             **extra_context,
         },
         notification_type="course_update",
