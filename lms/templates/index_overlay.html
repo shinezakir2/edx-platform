@@ -5,6 +5,11 @@ from django.utils.translation import gettext as _
 from openedx.core.djangolib.markup import HTML, Text
 %>
 
-<h1>${Text(_(u"Welcome to {platform_name}")).format(platform_name=settings.PLATFORM_NAME)}</h1>
-## Translators: 'Open edX' is a registered trademark, please keep this untranslated. See https://open.edx.org for more information.
-<p>${Text(_("It works! Powered by Open edX{registered_trademark}")).format(registered_trademark=HTML("<sup style='font-size: 65%'>&reg;</sup>"))}</p>
+<div   class="changeColor" style="background-color: transparent !important;" >
+    <h1 style="color: white !important;" >${Text(_(u"Welcome to {platform_name}")).format(platform_name=settings.PLATFORM_NAME)} Openedx Portal</h1>
+    ## Translators: 'Open edX' is a registered trademark, please keep this untranslated. See https://openedx.org for more information.
+    <h3 style="color: white !important;" >
+     ${Text(_("Our Vision : Abu Dhabi City is one of the world’s best cities to achieve sustainable safe and protected society")).format(registered_trademark=HTML("<sup style='font-size: 65%'>&reg;</sup>"))} 
+    </h3>
+    
+    </div>
