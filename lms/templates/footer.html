@@ -89,7 +89,7 @@
       % endif
     >
       <div class="colophon">
-        <nav class="nav-colophon" aria-label="${_('About')}">
+        <nav class="nav-colophon d-none"  aria-label="${_('About')}">
           <ol>
               % for item_num, link in enumerate(footer['navigation_links'], start=1):
               <li class="nav-colophon-0${item_num}">
@@ -124,7 +124,7 @@
               % endif
           </p>
 
-        <nav class="nav-legal" aria-label="${_('Legal')}">
+        <nav class="nav-legal d-none" aria-label="${_('Legal')}">
           <ul>
             % for item_num, link in enumerate(footer['legal_links'], start=1):
               <li class="nav-legal-0${item_num}">
@@ -141,7 +141,7 @@
       ## through an API to partner sites (such as marketing sites or blogs),
       ## which are not technically powered by OpenEdX.
       % if not hide_openedx_link:
-      <div class="footer-about-openedx">
+      <div class="footer-about-openedx d-none"  style="display: none;">
         <p>
           <a href="${footer['openedx_link']['url']}">
             <img src="${footer['openedx_link']['image']}" alt="${footer['openedx_link']['title']}" width="175" />
