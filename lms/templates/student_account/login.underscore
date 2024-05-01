@@ -1,9 +1,9 @@
-<div class="js-form-feedback" aria-live="assertive" tabindex="-1">
+<div class="js-form-feedback d-none" aria-live="assertive" tabindex="-1">
 </div>
 
 <% if ( context.createAccountOption !== false && !context.syncLearnerProfileData && !(context.enterpriseName && context.currentProvider) ) { %>
 <div class="toggle-form">
-    <span class="text"><%- gettext("First time here?") %></span>
+    <span class="text "><%- gettext("First time here?") %></span>
     <a href="#login" class="form-toggle" data-type="register"><%- gettext("Create an Account.") %></a>
 </div>
 <% } %>

@@ -342,10 +342,10 @@ FEATURES = {
     'ENABLE_XBLOCK_XML_VALIDATION': True,
 
     # Allow public account creation
-    'ALLOW_PUBLIC_ACCOUNT_CREATION': True,
+    'ALLOW_PUBLIC_ACCOUNT_CREATION': False,
 
     # Allow showing the registration links
-    'SHOW_REGISTRATION_LINKS': True,
+    'SHOW_REGISTRATION_LINKS': False,
 
     # Whether or not the dynamic EnrollmentTrackUserPartition should be registered.
     'ENABLE_ENROLLMENT_TRACK_USER_PARTITION': True,
