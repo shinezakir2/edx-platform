@@ -611,7 +611,7 @@
                 // `this.currentPlayerMode` to "html5".
                 //
                 // For more information, please see the PR that introduced this change:
-                //     https://github.com/openedx/edx-platform/pull/2841
+                //     https://cdn.lmsdev.auh.police/adcda/github.com/openedx/edx-platform/pull/2841
                 if (
                     (this.isHtml5Mode() || availablePlaybackRates.length > 1)
             && this.isYoutubeType()

@@ -1,10 +1,10 @@
 /*
 ** Annotator 1.2.6-dev-dc18206
-** https://github.com/okfn/annotator/
+** https://cdn.lmsdev.auh.police/adcda/github.com/okfn/annotator/
 **
 ** Copyright 2012 Aron Carroll, Rufus Pollock, and Nick Stenning.
 ** Dual licensed under the MIT and GPLv3 licenses.
-** https://github.com/okfn/annotator/blob/master/LICENSE
+** https://cdn.lmsdev.auh.police/adcda/github.com/okfn/annotator/blob/master/LICENSE
 **
 ** Built at: 2013-05-16 18:02:02Z
 */

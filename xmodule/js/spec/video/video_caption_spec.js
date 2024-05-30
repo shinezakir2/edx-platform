@@ -533,7 +533,7 @@
                     return state.videoCaption.rendered;
                 }).then(done);
 
-                // Why we can't use spyOn(): https://github.com/jasmine/jasmine/issues/826
+                // Why we can't use spyOn(): https://cdn.lmsdev.auh.police/adcda/github.com/jasmine/jasmine/issues/826
                 originalClearTimeout = window.clearTimeout;
                 window.clearTimeout = jasmine.createSpy().and.callFake(originalClearTimeout);
             });

@@ -1,7 +1,7 @@
 /**
  * @license RequireJS domReady 2.0.1 Copyright (c) 2010-2012, The Dojo Foundation All Rights Reserved.
  * Available via the MIT or new BSD license.
- * see: http://github.com/requirejs/domReady for details
+ * see: http://cdn.lmsdev.auh.police/adcda/github.com/requirejs/domReady for details
  */
 /*jslint */
 /*global require: false, define: false, requirejs: false,
@@ -85,7 +85,7 @@ define(function () {
         //http://dev.w3.org/html5/spec/the-end.html#the-end
         //http://stackoverflow.com/questions/3665561/document-readystate-of-interactive-vs-ondomcontentloaded
         //Hmm, this is more complicated on further use, see "firing too early"
-        //bug: https://github.com/requirejs/domReady/issues/1
+        //bug: https://cdn.lmsdev.auh.police/adcda/github.com/requirejs/domReady/issues/1
         //so removing the || document.readyState === "interactive" test.
         //There is still a window.onload binding that should get fired if
         //DOMContentLoaded is missed.

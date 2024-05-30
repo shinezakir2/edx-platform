@@ -17,22 +17,22 @@ describe('Program Details Header View', () => {
                 medium: {
                     height: 242,
                     width: 726,
-                    url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.medium.jpg',
+                    url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.medium.jpg',
                 },
                 'x-small': {
                     height: 116,
                     width: 348,
-                    url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.x-small.jpg',
+                    url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.x-small.jpg',
                 },
                 small: {
                     height: 145,
                     width: 435,
-                    url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.small.jpg',
+                    url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.small.jpg',
                 },
                 large: {
                     height: 480,
                     width: 1440,
-                    url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.large.jpg',
+                    url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.large.jpg',
                 },
             },
             authoring_organizations: [
@@ -40,8 +40,8 @@ describe('Program Details Header View', () => {
                     uuid: '0c6e5fa2-96e8-40b2-9ebe-c8b0df2a3b22',
                     key: 'WageningenX',
                     name: 'Wageningen University & Research',
-                    certificate_logo_image_url: 'https://example.com/org-certificate-logo.jpg',
-                    logo_image_url: 'https://example.com/org-logo.jpg',
+                    certificate_logo_image_url: 'https://cdn.lmsdev.auh.police/adcda/example.com/org-certificate-logo.jpg',
+                    logo_image_url: 'https://cdn.lmsdev.auh.police/adcda/example.com/org-logo.jpg',
                 },
             ],
         },

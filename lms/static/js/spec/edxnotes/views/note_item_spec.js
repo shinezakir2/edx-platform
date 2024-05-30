@@ -18,7 +18,7 @@ define([
                 text: formattedText || 'Third added model',
                 quote: Helpers.LONG_TEXT,
                 unit: {
-                    url: 'http://example.com/'
+                    url: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 }
             }));
 
@@ -129,7 +129,7 @@ define([
             );
             expect(view.redirectTo).not.toHaveBeenCalled();
             AjaxHelpers.respondWithJson(requests, {});
-            expect(view.redirectTo).toHaveBeenCalledWith('http://example.com/#id-123');
+            expect(view.redirectTo).toHaveBeenCalledWith('http://cdn.lmsdev.auh.police/adcda/example.com/#id-123');
         });
     });
 });

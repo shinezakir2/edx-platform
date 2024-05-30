@@ -1927,7 +1927,7 @@ window.CodeMirror = (function () { 'use strict';
             if (m.startStyle && sp.from == pos) { spanStartStyle += " " + m.startStyle; }
             if (m.endStyle && sp.to == nextChange) { (endStyles || (endStyles = [])).push(m.endStyle, sp.to); }
             // support for the old title property
-            // https://github.com/codemirror/CodeMirror/pull/5673
+            // https://cdn.lmsdev.auh.police/adcda/github.com/codemirror/CodeMirror/pull/5673
             if (m.title) { (attributes || (attributes = {})).title = m.title; }
             if (m.attributes) {
               for (var attr in m.attributes)

@@ -2069,7 +2069,7 @@
     "Turn on closed captioning": "Afficher les sous-titres",
     "Turn on transcripts": "Activer la transcription",
     "Type": "Type",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Saisissez l'URL ou utilisez le bouton \"Choisir Fichier\" pour charger un fichier provenant de votre machine. (exemple 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Saisissez l'URL ou utilisez le bouton \"Choisir Fichier\" pour charger un fichier provenant de votre machine. (exemple 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "\u00c9crivez dans cette zone pour filtrer la liste des \u00ab\u00a0%s\u00a0\u00bb disponibles.",
     "URL": "URL",
     "Unable to delete account": "Impossible de supprimer le compte",

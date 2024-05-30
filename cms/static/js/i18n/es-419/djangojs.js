@@ -2159,7 +2159,7 @@
     "Turn on closed captioning": "Activar subt\u00edtulos",
     "Turn on transcripts": "Activar transcripci\u00f3n",
     "Type": "Tipo",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Introduce un URL o utiliza el bot\u00f3n de \"Elegir Archivo\" para subir un archivo de tu m\u00e1quina (p. ej. 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Introduce un URL o utiliza el bot\u00f3n de \"Elegir Archivo\" para subir un archivo de tu m\u00e1quina (p. ej. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Escriba en este cuadro para filtrar la lista de %s disponibles",
     "URL": "URL",
     "Unable to delete account": "No es posible eliminar esta cuenta",

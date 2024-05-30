@@ -4,7 +4,7 @@
  * @requires jQuery v1.5 or later
  *
  * Examples and documentation at: http://malsup.com/jquery/form/
- * Project repository: https://github.com/malsup/form
+ * Project repository: https://cdn.lmsdev.auh.police/adcda/github.com/malsup/form
  * Dual licensed under the MIT and GPL licenses:
  *    http://malsup.github.com/mit-license.txt
  *    http://malsup.github.com/gpl-license-v2.txt

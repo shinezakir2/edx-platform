@@ -5,7 +5,7 @@ describe('escapeSelector', function() {
 
     it('correctly escapes css', function() {
         // tests borrowed from
-        // https://github.com/jquery/jquery/blob/3edfa1bcdc50bca41ac58b2642b12f3feee03a3b/test/unit/selector.js#L2030
+        // https://cdn.lmsdev.auh.police/adcda/github.com/jquery/jquery/blob/3edfa1bcdc50bca41ac58b2642b12f3feee03a3b/test/unit/selector.js#L2030
         expect(escapeSelector('-')).toEqual('\\-');
         expect(escapeSelector('-a')).toEqual('-a');
         expect(escapeSelector('--')).toEqual('--');

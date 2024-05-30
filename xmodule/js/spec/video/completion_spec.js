@@ -13,7 +13,7 @@
             state = jasmine.initializePlayer({
                 recordedYoutubeIsAvailable: true,
                 completionEnabled: true,
-                publishCompletionUrl: 'https://example.com/publish_completion_url'
+                publishCompletionUrl: 'https://cdn.lmsdev.auh.police/adcda/example.com/publish_completion_url'
             });
             state.completionHandler.completeAfterTime = 20;
 

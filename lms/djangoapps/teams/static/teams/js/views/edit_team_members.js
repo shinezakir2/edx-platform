@@ -54,7 +54,7 @@
                     // eslint-disable-next-line no-undef
                     dateJoined = interpolate(
                         /* Translators: 'date' is a placeholder for a fuzzy,
-                             * relative timestamp (see: https://github.com/rmm5t/jquery-timeago)
+                             * relative timestamp (see: https://cdn.lmsdev.auh.police/adcda/github.com/rmm5t/jquery-timeago)
                              */
                         gettext('Joined %(date)s'),
                         {date: self.dateTemplate({date: membership.date_joined})},
@@ -64,7 +64,7 @@
                     // eslint-disable-next-line no-undef
                     lastActivity = interpolate(
                         /* Translators: 'date' is a placeholder for a fuzzy,
-                             * relative timestamp (see: https://github.com/rmm5t/jquery-timeago)
+                             * relative timestamp (see: https://cdn.lmsdev.auh.police/adcda/github.com/rmm5t/jquery-timeago)
                              */
                         gettext('Last Activity %(date)s'),
                         {date: self.dateTemplate({date: membership.last_activity_at})},

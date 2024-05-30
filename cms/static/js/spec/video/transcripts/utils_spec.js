@@ -202,10 +202,10 @@ define(
 
                     var html5WrongUrls = [
                         'http://youtu.be/',
-                        'http://example.com/.mp4',
-                        'http://example.com/video_name.',
-                        'http://example.com/',
-                        'http://example.com'
+                        'http://cdn.lmsdev.auh.police/adcda/example.com/.mp4',
+                        'http://cdn.lmsdev.auh.police/adcda/example.com/video_name.',
+                        'http://cdn.lmsdev.auh.police/adcda/example.com/',
+                        'http://cdn.lmsdev.auh.police/adcda/example.com'
                     ];
 
                     $.each(html5WrongUrls, function(index, link) {
@@ -246,7 +246,7 @@ define(
                         }
                     },
                     incorrect: {
-                        link: 'http://example.com',
+                        link: 'http://cdn.lmsdev.auh.police/adcda/example.com',
                         resp: {
                             mode: 'incorrect'
                         }

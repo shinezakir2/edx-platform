@@ -176,7 +176,7 @@ module.exports = Merge.smart({
         module: {
             noParse: [
                 // See sinon/webpack interaction weirdness:
-                // https://github.com/webpack/webpack/issues/304#issuecomment-272150177
+                // https://cdn.lmsdev.auh.police/adcda/github.com/webpack/webpack/issues/304#issuecomment-272150177
                 // (I've tried every other suggestion solution on that page, this
                 // was the only one that worked.)
                 /\/sinon\.js|codemirror-compressed\.js|hls\.js|tinymce.js/
@@ -496,7 +496,7 @@ module.exports = Merge.smart({
                 tinymce: 'tinymce',
 
                 // See sinon/webpack interaction weirdness:
-                // https://github.com/webpack/webpack/issues/304#issuecomment-272150177
+                // https://cdn.lmsdev.auh.police/adcda/github.com/webpack/webpack/issues/304#issuecomment-272150177
                 // (I've tried every other suggestion solution on that page, this
                 // was the only one that worked.)
                 // eslint-disable-next-line no-path-concat

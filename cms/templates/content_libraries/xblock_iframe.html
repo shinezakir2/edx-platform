@@ -8,7 +8,7 @@
   <!-- gettext & XBlock JS i18n code -->
   <script type="text/javascript" src="{{ lms_root_url }}/static/js/i18n/en/djangojs.js"></script>
   <!-- Most XBlocks require jQuery: -->
-  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://cdn.lmsdev.auh.police/adcda/code.jquery.com/jquery-2.2.4.min.js"></script>
   <!-- The Video XBlock requires "ajaxWithPrefix" -->
   <script type="text/javascript">
     $.postWithPrefix = $.post;
@@ -16,7 +16,7 @@
     $.ajaxWithPrefix = $.ajax;
   </script>
   <!-- The Video XBlock requires "Slider" from jQuery-UI: -->
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+  <script src="https://cdn.lmsdev.auh.police/adcda/code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
   <!-- The video XBlock depends on Underscore.JS -->
   <script type="text/javascript" src="{{ lms_root_url }}/static/common/js/vendor/underscore.js"></script>
   <!-- The video XBlock depends on jquery-cookie -->
@@ -73,7 +73,7 @@
   </script>
   <!-- At least one XBlock (drag and drop v2) expects Font Awesome -->
   <link rel="stylesheet"
-        href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        href="https://cdn.lmsdev.auh.police/adcda/stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- Capa Problem Editing requires CodeMirror -->
   <link rel="stylesheet" href="{{ lms_root_url }}/static/js/vendor/CodeMirror/codemirror.css">
   <!-- Built-in XBlocks (and some plugins) depends on LMS CSS -->
@@ -154,7 +154,7 @@
   <!-- This must appear after all mathjax-config blocks, so it is after the imports from the other templates.
        It can't be run through static.url because MathJax uses crazy url introspection to do lazy loading of
        MathJax extension libraries -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-MML-AM_SVG"></script>
+  <script type="text/javascript" src="https://cdn.lmsdev.auh.police/adcda/cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-MML-AM_SVG"></script>
   <!-- fragment head -->
   {{ fragment.head_html | safe }}
 </head>

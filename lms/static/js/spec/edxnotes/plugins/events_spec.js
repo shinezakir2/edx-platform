@@ -24,7 +24,7 @@ define([
         beforeEach(function() {
             this.annotator = NotesFactory.factory(
                 $('<div />').get(0), {
-                    endpoint: 'http://example.com/',
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/',
                     eventStringLimit: 300
                 }
             );

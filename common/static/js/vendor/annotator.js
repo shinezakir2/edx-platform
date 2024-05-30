@@ -1,10 +1,10 @@
 /*
 ** Annotator 1.2.6-dev-dc18206
-** https://github.com/okfn/annotator/
+** https://cdn.lmsdev.auh.police/adcda/github.com/okfn/annotator/
 **
 ** Copyright 2012 Aron Carroll, Rufus Pollock, and Nick Stenning.
 ** Dual licensed under the MIT and GPLv3 licenses.
-** https://github.com/okfn/annotator/blob/master/LICENSE
+** https://cdn.lmsdev.auh.police/adcda/github.com/okfn/annotator/blob/master/LICENSE
 **
 ** Built at: 2013-05-16 18:01:57Z
 */
@@ -1264,15 +1264,15 @@
   g = util.getGlobal();
 
   if (((_ref1 = g.document) != null ? _ref1.evaluate : void 0) == null) {
-    $.getScript('//assets.annotateit.org/vendor/xpath.min.js');
+    $.getScript('//cdn.lmsdev.auh.police/adcda/assets.annotateit.org/vendor/xpath.min.js');
   }
 
   if (g.getSelection == null) {
-    $.getScript('//assets.annotateit.org/vendor/ierange.min.js');
+    $.getScript('//cdn.lmsdev.auh.police/adcda/assets.annotateit.org/vendor/ierange.min.js');
   }
 
   if (g.JSON == null) {
-    $.getScript('//assets.annotateit.org/vendor/json2.min.js');
+    $.getScript('//cdn.lmsdev.auh.police/adcda/assets.annotateit.org/vendor/json2.min.js');
   }
 
   Annotator.$ = $;

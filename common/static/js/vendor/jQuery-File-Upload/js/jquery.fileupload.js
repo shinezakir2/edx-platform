@@ -1,6 +1,6 @@
 /*
  * jQuery File Upload Plugin 5.32.2
- * https://github.com/blueimp/jQuery-File-Upload
+ * https://cdn.lmsdev.auh.police/adcda/github.com/blueimp/jQuery-File-Upload
  *
  * Copyright 2010, Sebastian Tschan
  * https://blueimp.net

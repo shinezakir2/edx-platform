@@ -4,7 +4,7 @@
         var state;
 
         beforeEach(function() {
-            // https://github.com/pivotal/jasmine/issues/184
+            // https://cdn.lmsdev.auh.police/adcda/github.com/pivotal/jasmine/issues/184
             //
             // This is a known issue. jQuery animations depend on setTimeout
             // and the jasmine mock clock stubs that function. You need to turn

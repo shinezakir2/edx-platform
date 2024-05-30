@@ -42,7 +42,7 @@ describe('Course Enroll View', () => {
             uuid: '2f2edf03-79e6-4e39-aef0-65436a6ee344',
             title: 'Food Security and Sustainability: Systems thinking and environmental sustainability',
             image: {
-                src: 'https://example.com/2f2edf03-79e6-4e39-aef0-65436a6ee344.jpg',
+                src: 'https://cdn.lmsdev.auh.police/adcda/example.com/2f2edf03-79e6-4e39-aef0-65436a6ee344.jpg',
             },
             marketing_url: 'https://www.edx.org/course/food-security-sustainability-systems-wageningenx-ffesx',
             start: '2017-02-28T05:00:00Z',
@@ -65,7 +65,7 @@ describe('Course Enroll View', () => {
             uuid: '9bbb7844-4848-44ab-8e20-0be6604886e9',
             title: 'Food Security and Sustainability: Systems thinking and environmental sustainability',
             image: {
-                src: 'https://example.com/9bbb7844-4848-44ab-8e20-0be6604886e9.jpg',
+                src: 'https://cdn.lmsdev.auh.police/adcda/example.com/9bbb7844-4848-44ab-8e20-0be6604886e9.jpg',
             },
             short_description: 'Learn how to apply systems thinking to improve food production systems.',
             marketing_url: 'https://www.edx.org/course/food-security-sustainability-systems-wageningenx-stesx',
@@ -87,7 +87,7 @@ describe('Course Enroll View', () => {
             uuid: '2f2edf03-79e6-4e39-aef0-65436a6ee344',
             title: 'Food Security and Sustainability: Systems thinking and environmental sustainability',
             image: {
-                src: 'https://example.com/2f2edf03-79e6-4e39-aef0-65436a6ee344.jpg',
+                src: 'https://cdn.lmsdev.auh.police/adcda/example.com/2f2edf03-79e6-4e39-aef0-65436a6ee344.jpg',
             },
             marketing_url: 'https://www.edx.org/course/food-security-sustainability-systems-wageningenx-ffesx',
             start: '2017-02-28T05:00:00Z',

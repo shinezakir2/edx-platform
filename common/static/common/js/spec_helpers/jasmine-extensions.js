@@ -102,7 +102,7 @@
 
     /* eslint-disable */
     // All the code below is taken from:
-    // https://github.com/velesin/jasmine-jquery/blob/2.1.1/lib/jasmine-jquery.js
+    // https://cdn.lmsdev.auh.police/adcda/github.com/velesin/jasmine-jquery/blob/2.1.1/lib/jasmine-jquery.js
     beforeEach(function() {
         jasmine.addMatchers({
             toHandle: function() {

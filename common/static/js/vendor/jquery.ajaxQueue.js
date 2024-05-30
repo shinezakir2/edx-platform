@@ -2,8 +2,8 @@
 * jQuery.ajaxQueue - A queue for ajax requests
 *
 * @copyright: Copyright (c) 2013 Corey Frang
-* @license: Licensed under the MIT license. See https://github.com/gnarf/jquery-ajaxQueue/blob/master/LICENSE-MIT.
-* @website: https://github.com/gnarf/jquery-ajaxQueue
+* @license: Licensed under the MIT license. See https://cdn.lmsdev.auh.police/adcda/github.com/gnarf/jquery-ajaxQueue/blob/master/LICENSE-MIT.
+* @website: https://cdn.lmsdev.auh.police/adcda/github.com/gnarf/jquery-ajaxQueue
 */
 (function($) {
 

@@ -10,7 +10,7 @@ from openedx.core.djangolib.markup import HTML, Text
 
 <main id="main" aria-label="Content" tabindex="-1">
     <section class="home">
-      <header class="mainlogo" style="  width: 100% !important ; height: 550px !important; background-repeat: no-repeat;  ">
+      <header style="background-image: url(https://cdn.lmsdev.auh.police/adcda/adcda.gov.ae/-/media/Project/ADCDA/ADCDA/2023/ADCDA-home-page-01.svg);  width: 100% !important ; height: 550px !important; background-repeat: no-repeat;  ">
         <div class="outer-wrapper">
           <div class="title" style="background: none !important; align-items: center; margin-top: -60px !important; width: 85.88078% !important; box-shadow: none !important; ">
             <div class="heading-group">
@@ -69,12 +69,3 @@ from openedx.core.djangolib.markup import HTML, Text
   $(window).load(function() {$('#signup_action').trigger("click");});
 </script>
 % endif
-
-<style>
-  .mainlogo
-  {
-    background-image : url("${static.url('images/ADCDAhomepage-01.svg')}") !important;
-  }
-</style>
-
- 

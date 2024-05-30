@@ -7,7 +7,7 @@
  *
  * Use under either MIT, GPL or Apache 2.0. See LICENSE.txt
  *
- * Project home: https://github.com/dyve/jquery-autocomplete
+ * Project home: https://cdn.lmsdev.auh.police/adcda/github.com/dyve/jquery-autocomplete
  */
 
 (function($) {

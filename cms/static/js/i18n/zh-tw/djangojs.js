@@ -682,7 +682,7 @@
     "Total": "\u7e3d\u6578",
     "Try the transaction again in a few minutes.": "\u8acb\u7b49\u5f85\u5e7e\u5206\u9418\u5f8c\u518d\u5617\u8a66\u3002",
     "Type": "\u985e\u578b",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "\u8f38\u5165\u4e00\u500b\u7db2\u5740\uff0c\u6216\u6309\u4e0b\u201c\u9078\u64c7\u6587\u4ef6\u201d\u7684\u6309\u9215\u4f86\u4e0a\u50b3\u6587\u4ef6\u3002(\u4f8b\u5982'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "\u8f38\u5165\u4e00\u500b\u7db2\u5740\uff0c\u6216\u6309\u4e0b\u201c\u9078\u64c7\u6587\u4ef6\u201d\u7684\u6309\u9215\u4f86\u4e0a\u50b3\u6587\u4ef6\u3002(\u4f8b\u5982'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "URL": "\u7db2\u5740",
     "Unable to load": "\u7121\u6cd5\u8f09\u5165",
     "Undo (Ctrl+Z)": "\u5fa9\u539f (Ctrl+Z)",

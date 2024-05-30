@@ -1349,7 +1349,7 @@
     "Transcripts": "Transkrypcje",
     "Try the transaction again in a few minutes.": "Spr\u00f3buj dokona\u0107 transakcji za kilka minut.",
     "Type": "Typ",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Wklej adres URL lub u\u017cyj przycisku \"Wybierz plik\", aby przes\u0142a\u0107 plik ze swojego komputera. (np. 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Wklej adres URL lub u\u017cyj przycisku \"Wybierz plik\", aby przes\u0142a\u0107 plik ze swojego komputera. (np. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Wpisz co\u015b tutaj, aby wyfiltrowa\u0107 list\u0119 dost\u0119pnych %s.",
     "URL": "URL",
     "Unable to determine whether we should give you a refund because of System Error. Please try again later.": "Z powodu b\u0142\u0119du systemu nie uda\u0142o si\u0119 okre\u015bli\u0107 zasadno\u015bci przyznania zwrotu. Prosz\u0119 spr\u00f3bowa\u0107 ponownie p\u00f3\u017aniej.",

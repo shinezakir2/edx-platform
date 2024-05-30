@@ -108,7 +108,7 @@ define(['underscore', 'URI', 'edx-ui-toolkit/js/utils/spec-helpers/ajax-helpers'
         return {
             display_name: name,
             location: 'i4x://unit/' + location,
-            url: 'http://example.com'
+            url: 'http://cdn.lmsdev.auh.police/adcda/example.com'
         };
     };
 

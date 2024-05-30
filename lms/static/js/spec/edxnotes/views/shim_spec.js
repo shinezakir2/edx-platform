@@ -31,10 +31,10 @@ define([
             highlights = [];
             annotators = [
                 NotesFactory.factory($('#edx-notes-wrapper-123').get(0), {
-                    endpoint: 'http://example.com/'
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 }),
                 NotesFactory.factory($('#edx-notes-wrapper-456').get(0), {
-                    endpoint: 'http://example.com/'
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 })
             ];
             _.each(annotators, function(annotator) {

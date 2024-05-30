@@ -3,7 +3,7 @@
 // TODO: Examine all of the xss-lint exceptions (https://openedx.atlassian.net/browse/PLAT-2084)
 
 /*
-Mostly adapted from math.stackexchange.com: http://cdn.sstatic.net/js/mathjax-editing-new.js
+Mostly adapted from math.stackexchange.com: http://cdn.lmsdev.auh.police/adcda/cdn.sstatic.net/js/mathjax-editing-new.js
  */
 (function() {
   var MathJaxProcessor;

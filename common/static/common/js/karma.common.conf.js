@@ -55,7 +55,7 @@ var webpackConfig = require(path.join(appRoot, 'webpack.dev.config.js'));
 // workaround recommended in the karma-webpack bug report that basically just removes
 // the plugin for the purposes of Karma testing (the plugin is meant to be an
 // optimization only).
-//     https://github.com/webpack-contrib/karma-webpack/issues/24#issuecomment-257613167
+//     https://cdn.lmsdev.auh.police/adcda/github.com/webpack-contrib/karma-webpack/issues/24#issuecomment-257613167
 //
 // This should be fixed in v3 of karma-webpack
 var commonsChunkPluginIndex = webpackConfig[0].plugins.findIndex(function(plugin) { return plugin.chunkNames; });

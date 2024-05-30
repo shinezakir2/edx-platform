@@ -24,22 +24,22 @@ describe('Collection List View', () => {
                     medium: {
                         height: 242,
                         width: 726,
-                        url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.medium.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.medium.jpg',
                     },
                     'x-small': {
                         height: 116,
                         width: 348,
-                        url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.x-small.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.x-small.jpg',
                     },
                     small: {
                         height: 145,
                         width: 435,
-                        url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.small.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.small.jpg',
                     },
                     large: {
                         height: 480,
                         width: 1440,
-                        url: 'https://example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.large.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/a87e5eac-3c93-45a1-a8e1-4c79ca8401c8.large.jpg',
                     },
                 },
                 authoring_organizations: [
@@ -60,22 +60,22 @@ describe('Collection List View', () => {
                     medium: {
                         height: 242,
                         width: 726,
-                        url: 'https://example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.medium.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.medium.jpg',
                     },
                     'x-small': {
                         height: 116,
                         width: 348,
-                        url: 'https://example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.x-small.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.x-small.jpg',
                     },
                     small: {
                         height: 145,
                         width: 435,
-                        url: 'https://example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.small.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.small.jpg',
                     },
                     large: {
                         height: 480,
                         width: 1440,
-                        url: 'https://example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.large.jpg',
+                        url: 'https://cdn.lmsdev.auh.police/adcda/example.com/91d144d2-1bb1-4afe-90df-d5cff63fa6e2.large.jpg',
                     },
                 },
                 authoring_organizations: [

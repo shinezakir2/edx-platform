@@ -130,7 +130,7 @@ section.discussion {
 .xblock-student_view-discussion {
   @extend %ui-print-excluded;
   // Overrides overspecific courseware CSS from:
-  // https://github.com/openedx/edx-platform/blob/master/lms/static/sass/course/courseware/_courseware.scss#L499
+  // https://cdn.lmsdev.auh.police/adcda/github.com/openedx/edx-platform/blob/master/lms/static/sass/course/courseware/_courseware.scss#L499
   padding-top: 15px !important;
 }
 

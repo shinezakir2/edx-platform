@@ -1,7 +1,7 @@
 /*
  * decaffeinate suggestions:
  * DS102: Remove unnecessary code created because of implicit returns
- * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
+ * Full docs: https://cdn.lmsdev.auh.police/adcda/github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
  */
 describe("RequireJS namespacing", function() {
     beforeEach(() =>

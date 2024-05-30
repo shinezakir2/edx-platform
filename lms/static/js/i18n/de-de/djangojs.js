@@ -1934,7 +1934,7 @@
     "Turn on closed captioning": "Geschlossene \u00dcberschriften anzeigen",
     "Turn on transcripts": "Transkripte aktivieren",
     "Type": "Typ",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Geben Sie eine URL ein oder verwenden Sie die Schaltfl\u00e4che \"Datei ausw\u00e4hlen\", um eine Datei von Ihrem Computer hochzuladen. (e.g. 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Geben Sie eine URL ein oder verwenden Sie die Schaltfl\u00e4che \"Datei ausw\u00e4hlen\", um eine Datei von Ihrem Computer hochzuladen. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Durch Eingabe in diesem Feld l\u00e4sst sich die Liste der verf\u00fcgbaren %s eingrenzen.",
     "URL": "URL",
     "Unable to delete account": "Es ist nicht m\u00f6glich den Account zu l\u00f6schen.",

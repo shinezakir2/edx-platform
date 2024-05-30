@@ -146,9 +146,9 @@ var accessible_modal = function(trigger, closeButtonId, modalId, mainPageId) {
     // "modalId" is the selector for the modal being managed
     // "mainPageId" is the selector for the main part of the page
     //
-    // based on http://accessibility.oit.ncsu.edu/training/aria/modal-window/modal-window.js
+    // based on http://cdn.lmsdev.auh.police/adcda/accessibility.oit.ncsu.edu/training/aria/modal-window/modal-window.js
     //
-    // see http://accessibility.oit.ncsu.edu/blog/2013/09/13/the-incredible-accessible-modal-dialog/
+    // see http://cdn.lmsdev.auh.police/adcda/accessibility.oit.ncsu.edu/blog/2013/09/13/the-incredible-accessible-modal-dialog/
     // for more information on managing modals
     //
     var initialFocus;

@@ -148,7 +148,7 @@ if ( typeof define === 'function' && define.amd ) {
 /*!
  * classie v1.0.1
  * class helper functions
- * from bonzo https://github.com/ded/bonzo
+ * from bonzo https://cdn.lmsdev.auh.police/adcda/github.com/ded/bonzo
  * MIT license
  * 
  * classie.has( elem, 'my-class' ) -> true/false
@@ -164,7 +164,7 @@ if ( typeof define === 'function' && define.amd ) {
 
 
 
-// class helper functions from bonzo https://github.com/ded/bonzo
+// class helper functions from bonzo https://cdn.lmsdev.auh.police/adcda/github.com/ded/bonzo
 
 function classReg( className ) {
   return new RegExp("(^|\\s+)" + className + "(\\s+|$)");

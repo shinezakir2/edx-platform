@@ -1,6 +1,6 @@
 /*
  * jQuery File Upload Processing Plugin 1.2.2
- * https://github.com/blueimp/jQuery-File-Upload
+ * https://cdn.lmsdev.auh.police/adcda/github.com/blueimp/jQuery-File-Upload
  *
  * Copyright 2012, Sebastian Tschan
  * https://blueimp.net

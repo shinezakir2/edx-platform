@@ -1,6 +1,6 @@
 /*
  * jquery.ajax-retry
- * https://github.com/johnkpaul/jquery-ajax-retry
+ * https://cdn.lmsdev.auh.police/adcda/github.com/johnkpaul/jquery-ajax-retry
  *
  * Copyright (c) 2012 John Paul
  * Licensed under the MIT license.

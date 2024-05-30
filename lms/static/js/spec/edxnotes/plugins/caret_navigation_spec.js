@@ -8,7 +8,7 @@ define([
             loadFixtures('js/fixtures/edxnotes/edxnotes_wrapper.html');
             this.annotator = NotesFactory.factory(
                 $('div#edx-notes-wrapper-123').get(0), {
-                    endpoint: 'http://example.com/'
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 }
             );
             this.plugin = this.annotator.plugins.CaretNavigation;

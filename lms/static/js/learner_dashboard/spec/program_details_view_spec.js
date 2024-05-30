@@ -107,7 +107,7 @@ describe('Program Details View', () => {
                     key: 'LearnX',
                     certificate_logo_image_url: null,
                     marketing_url: 'someurl',
-                    logo_image_url: 'https://stage.edx.org/sites/default/files/school/image/logo/learnx.png',
+                    logo_image_url: 'https://cdn.lmsdev.auh.police/adcda/stage.edx.org/sites/default/files/school/image/logo/learnx.png',
                     uuid: 'de3e9ff0-477d-4496-8cfa-a98f902e5830',
                 },
                 {
@@ -121,7 +121,7 @@ describe('Program Details View', () => {
                     key: 'TestX',
                     certificate_logo_image_url: null,
                     marketing_url: 'someurl',
-                    logo_image_url: 'https://stage.edx.org/sites/default/files/school/image/logo/ritx.png',
+                    logo_image_url: 'https://cdn.lmsdev.auh.police/adcda/stage.edx.org/sites/default/files/school/image/logo/ritx.png',
                     uuid: '54bc81cb-b736-4505-aa51-dd2b18c61d84',
                 },
             ],

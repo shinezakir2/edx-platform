@@ -1,6 +1,6 @@
 /*
  * jQuery Iframe Transport Plugin 1.7
- * https://github.com/blueimp/jQuery-File-Upload
+ * https://cdn.lmsdev.auh.police/adcda/github.com/blueimp/jQuery-File-Upload
  *
  * Copyright 2011, Sebastian Tschan
  * https://blueimp.net
@@ -178,7 +178,7 @@
     // The Content-Type for XML responses on the other hand has to be always
     // application/xml or text/xml, so IE properly parses the XML response.
     // See also
-    // https://github.com/blueimp/jQuery-File-Upload/wiki/Setup#content-type-negotiation
+    // https://cdn.lmsdev.auh.police/adcda/github.com/blueimp/jQuery-File-Upload/wiki/Setup#content-type-negotiation
     $.ajaxSetup({
         converters: {
             'iframe text': function (iframe) {

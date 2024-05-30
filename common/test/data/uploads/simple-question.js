@@ -1,4 +1,4 @@
-/* Original Source: https://files.edx.org/custom-js-example/jsinput_example.js */
+/* Original Source: https://cdn.lmsdev.auh.police/adcda/files.edx.org/custom-js-example/jsinput_example.js */
 
 /* globals Channel */
 

@@ -1,5 +1,5 @@
 /*
- * JSChannel (https://github.com/mozilla/jschannel) will be loaded prior to this
+ * JSChannel (https://cdn.lmsdev.auh.police/adcda/github.com/mozilla/jschannel) will be loaded prior to this
  * script. We will use it use to let JSInput call 'gradeFn', and eventually
  * 'stateGetter' & 'stateSetter' in the iframe's content even if it hasn't the
  * same origin, therefore bypassing SOP:

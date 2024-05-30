@@ -2106,7 +2106,7 @@ var PresentationMode = {
 
 
 /* Copyright 2013 Rob Wu <gwnRob@gmail.com>
- * https://github.com/Rob--W/grab-to-pan.js
+ * https://cdn.lmsdev.auh.police/adcda/github.com/Rob--W/grab-to-pan.js
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

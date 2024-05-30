@@ -11,7 +11,7 @@ define(['jquery', 'logger', 'js/courseware/courseware_factory'], function($, Log
         it('sends an event when an external link is clicked', function() {
             $('.external-link').click();
             expect(Logger.log).toHaveBeenCalledWith('edx.ui.lms.link_clicked', {
-                target_url: 'http://example.com/',
+                target_url: 'http://cdn.lmsdev.auh.police/adcda/example.com/',
                 current_url: window.location.toString()
             });
         });

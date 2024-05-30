@@ -1,10 +1,10 @@
 /*
 ** Checkboxes TreeView- jQuery
-** https://github.com/aexmachina/jquery-qubit
+** https://cdn.lmsdev.auh.police/adcda/github.com/aexmachina/jquery-qubit
 **
 ** Copyright (c) 2014 Simon Wade
 ** The MIT License (MIT)
-** https://github.com/aexmachina/jquery-qubit/blob/master/LICENSE.txt
+** https://cdn.lmsdev.auh.police/adcda/github.com/aexmachina/jquery-qubit/blob/master/LICENSE.txt
 **
 */
 

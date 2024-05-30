@@ -10,7 +10,7 @@ function escapeSelector(id) {
 
     // CSS string/identifier serialization https://drafts.csswg.org/cssom/#common-serializing-idioms
     // This code borrowed from https://api.jquery.com/jQuery.escapeSelector/ (source:
-    // https://github.com/jquery/jquery/blob/3edfa1bc/src/selector/escapeSelector.js). When we upgrade to jQuery 3.0, we
+    // https://cdn.lmsdev.auh.police/adcda/github.com/jquery/jquery/blob/3edfa1bc/src/selector/escapeSelector.js). When we upgrade to jQuery 3.0, we
     // can use $.escapeSelector() instead of this shim escapeSelector function.
     var rcssescape = /([\0-\x1f\x7f]|^-?\d)|^-$|[^\x80-\uFFFF\w-]/g; // eslint-disable-line no-control-regex
     function fcssescape(ch, asCodePoint) {

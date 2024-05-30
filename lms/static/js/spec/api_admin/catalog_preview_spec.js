@@ -8,7 +8,7 @@ define([
 
     describe('Catalog preview view', function() {
         var view,
-            previewUrl = 'http://example.com/api-admin/catalogs/preview/',
+            previewUrl = 'http://cdn.lmsdev.auh.police/adcda/example.com/api-admin/catalogs/preview/',
             catalogApiUrl = 'http://api.example.com/catalog/v1/courses/';
 
         beforeEach(function() {

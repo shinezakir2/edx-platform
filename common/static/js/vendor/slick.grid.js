@@ -2,7 +2,7 @@
  * @license
  * (c) 2009-2012 Michael Leibman
  * michael{dot}leibman{at}gmail{dot}com
- * http://github.com/mleibman/slickgrid
+ * http://cdn.lmsdev.auh.police/adcda/github.com/mleibman/slickgrid
  *
  * Distributed under MIT license.
  * All rights reserved.

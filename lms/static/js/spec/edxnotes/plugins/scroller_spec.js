@@ -22,10 +22,10 @@ define([
             loadFixtures('js/fixtures/edxnotes/edxnotes_wrapper.html');
             annotators = [
                 NotesFactory.factory($('div#edx-notes-wrapper-123').get(0), {
-                    endpoint: 'http://example.com/'
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 }),
                 NotesFactory.factory($('div#edx-notes-wrapper-456').get(0), {
-                    endpoint: 'http://example.com/'
+                    endpoint: 'http://cdn.lmsdev.auh.police/adcda/example.com/'
                 })
             ];
 

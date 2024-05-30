@@ -1416,7 +1416,7 @@
     "Turn on closed captioning": "Aktifkan teks",
     "Turn on transcripts": "Aktifkan transkrip",
     "Type": "Tipe",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Ketik URL atau gunakan tombol \"Pilih File\" untuk unggah dari perangkat Anda (misal 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Ketik URL atau gunakan tombol \"Pilih File\" untuk unggah dari perangkat Anda (misal 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Ketik pada kotak ini untuk menyaring daftar %s yang tersedia.",
     "URL": "URL",
     "Unable to delete account": "Tidak dapat menghapus akun",

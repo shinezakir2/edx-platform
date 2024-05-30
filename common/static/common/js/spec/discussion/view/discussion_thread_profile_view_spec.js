@@ -18,7 +18,7 @@
                 },
                 created_at: '2014-09-09T20:11:08Z'
             };
-            this.imageTag = '<img src="https://www.google.com.pk/images/srpr/logo11w.png">';
+            this.imageTag = '<img src="https://cdn.lmsdev.auh.police/adcda/www.google.com.pk/images/srpr/logo11w.png">';
         });
         makeView = function(thread) {
             var view;

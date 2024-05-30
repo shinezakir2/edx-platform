@@ -1196,7 +1196,7 @@
     "Turn on closed captioning": "Gaitu itxitako azpitituluak",
     "Turn on transcripts": "Gaitu transkripzioak",
     "Type": "Mota",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Idatzi URL bat edo erabili \"Aukeratu fitxategia\" botoia irufi bat zure ordenagailutik kargatzeko. (adibidez, 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Idatzi URL bat edo erabili \"Aukeratu fitxategia\" botoia irufi bat zure ordenagailutik kargatzeko. (adibidez, 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Idatzi kutxa honetan erabilgarri dauden %s objektuak iragazteko.",
     "URL": "URL",
     "Unable to delete account": "Ezin izan da kontua ezabatu",

@@ -1398,7 +1398,7 @@
     "Turn on closed captioning": "B\u1eadt ph\u1ee5 \u0111\u1ec1 chi ti\u1ebft",
     "Turn on transcripts": "B\u1eadt b\u1ea3n d\u1ecbch",
     "Type": "Lo\u1ea1i",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "Nh\u1eadp URL ho\u1eb7c s\u1eed d\u1ee5ng n\u00fat \"Ch\u1ecdn t\u1ec7p\" \u0111\u1ec3 t\u1ea3i t\u1ec7p l\u00ean t\u1eeb m\u00e1y c\u1ee7a b\u1ea1n. (v\u00ed d\u1ee5: 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "Nh\u1eadp URL ho\u1eb7c s\u1eed d\u1ee5ng n\u00fat \"Ch\u1ecdn t\u1ec7p\" \u0111\u1ec3 t\u1ea3i t\u1ec7p l\u00ean t\u1eeb m\u00e1y c\u1ee7a b\u1ea1n. (v\u00ed d\u1ee5: 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "B\u1ea1n h\u00e3y nh\u1eadp v\u00e0o \u00f4 n\u00e0y \u0111\u1ec3 l\u1ecdc c\u00e1c danh s\u00e1ch sau %s.",
     "URL": "URL",
     "Unable to delete account": "Kh\u00f4ng th\u1ec3 x\u00f3a t\u00e0i kho\u1ea3n",

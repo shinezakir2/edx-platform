@@ -1,4 +1,4 @@
-// https://github.com/lukasolson/backbone-super
+// https://cdn.lmsdev.auh.police/adcda/github.com/lukasolson/backbone-super
 // MIT License
 
 // This is a plugin, constructed from parts of Backbone.js and John Resig's inheritance script.

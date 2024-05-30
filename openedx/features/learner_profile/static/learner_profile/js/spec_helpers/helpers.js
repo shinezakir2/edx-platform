@@ -218,11 +218,11 @@ define(['underscore', 'URI', 'edx-ui-toolkit/js/utils/spec-helpers/ajax-helpers'
                 display_name: 'Test Badge ' + num,
                 course_id: null,
                 description: "Yay! It's a test badge.",
-                criteria: 'https://example.com/syllabus',
+                criteria: 'https://cdn.lmsdev.auh.police/adcda/example.com/syllabus',
                 image_url: 'http://localhost:8000/media/badge_classes/test_lMB9bRw.png'
             },
-            image_url: 'http://example.com/image.png',
-            assertion_url: 'http://example.com/example.json',
+            image_url: 'http://cdn.lmsdev.auh.police/adcda/example.com/image.png',
+            assertion_url: 'http://cdn.lmsdev.auh.police/adcda/example.com/example.json',
             created_at: '2015-12-03T16:25:57.676113Z'
         };
     }

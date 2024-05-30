@@ -1,6 +1,6 @@
 /*!
  * jQuery Cookie Plugin
- * https://github.com/carhartl/jquery-cookie
+ * https://cdn.lmsdev.auh.police/adcda/github.com/carhartl/jquery-cookie
  *
  * Copyright 2011, Klaus Hartl
  * Dual licensed under the MIT or GPL Version 2 licenses.

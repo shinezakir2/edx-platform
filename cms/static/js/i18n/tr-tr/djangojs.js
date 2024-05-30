@@ -2012,7 +2012,7 @@
     "Turn on closed captioning": "\u0130\u015fitme engelliler i\u00e7in altyaz\u0131y\u0131 a\u00e7",
     "Turn on transcripts": "Altyaz\u0131y\u0131 a\u00e7",
     "Type": "Tip",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "URL girerek ya da \"Dosya Se\u00e7\" d\u00fc\u011fmesine t\u0131klayarak bilgisayar\u0131n\u0131zdan bir dosya y\u00fckleyebilirsiniz. (\u00d6rn. 'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "URL girerek ya da \"Dosya Se\u00e7\" d\u00fc\u011fmesine t\u0131klayarak bilgisayar\u0131n\u0131zdan bir dosya y\u00fckleyebilirsiniz. (\u00d6rn. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "Type into this box to filter down the list of available %s.": "Mevcut %s listesini s\u00fczmek i\u00e7in bu kutu i\u00e7ine yaz\u0131n.",
     "URL": "URL",
     "Unable to delete account": "Hesap silinemedi",

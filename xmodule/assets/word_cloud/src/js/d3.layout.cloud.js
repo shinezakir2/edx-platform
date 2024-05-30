@@ -1,6 +1,6 @@
 /*
  * Word cloud layout by Jason Davies
- * https://github.com/jasondavies/d3-cloud
+ * https://cdn.lmsdev.auh.police/adcda/github.com/jasondavies/d3-cloud
  * 
  *
  * Copyright (c) 2012, Jason Davies.

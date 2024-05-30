@@ -59,7 +59,7 @@ describe('Course Card View', () => {
                     key: 'course-v1:WageningenX+FFESx+1T2017',
                     title: 'Food Security and Sustainability: Systems thinking and environmental sustainability',
                     image: {
-                        src: 'https://example.com/9f8562eb-f99b-45c7-b437-799fd0c15b6a.jpg',
+                        src: 'https://cdn.lmsdev.auh.police/adcda/example.com/9f8562eb-f99b-45c7-b437-799fd0c15b6a.jpg',
                     },
                     marketing_url: 'https://www.edx.org/course/food-security-sustainability',
                     start: '2017-02-28T05:00:00Z',

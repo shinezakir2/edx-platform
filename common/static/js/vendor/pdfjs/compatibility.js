@@ -246,7 +246,7 @@ if (typeof PDFJS === 'undefined') {
     return;
   }
 
-  // https://github.com/davidchambers/Base64.js
+  // https://cdn.lmsdev.auh.police/adcda/github.com/davidchambers/Base64.js
   var digits =
     'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
   window.atob = function (input) {
@@ -465,14 +465,14 @@ if (typeof PDFJS === 'undefined') {
 
 (function checkRangeRequests() {
   // Safari has issues with cached range requests see:
-  // https://github.com/mozilla/pdf.js/issues/3260
+  // https://cdn.lmsdev.auh.police/adcda/github.com/mozilla/pdf.js/issues/3260
   // Last tested with version 6.0.4.
   // Support: Safari 6.0+
   var isSafari = Object.prototype.toString.call(
                   window.HTMLElement).indexOf('Constructor') > 0;
 
   // Older versions of Android (pre 3.0) has issues with range requests, see:
-  // https://github.com/mozilla/pdf.js/issues/3381.
+  // https://cdn.lmsdev.auh.police/adcda/github.com/mozilla/pdf.js/issues/3381.
   // Make sure that we only match webkit-based Android browsers,
   // since Firefox/Fennec works as expected.
   // Support: Android<3.0

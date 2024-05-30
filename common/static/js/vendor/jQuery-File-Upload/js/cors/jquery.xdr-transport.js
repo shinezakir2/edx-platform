@@ -1,6 +1,6 @@
 /*
  * jQuery XDomainRequest Transport Plugin 1.1.3
- * https://github.com/blueimp/jQuery-File-Upload
+ * https://cdn.lmsdev.auh.police/adcda/github.com/blueimp/jQuery-File-Upload
  *
  * Copyright 2011, Sebastian Tschan
  * https://blueimp.net
@@ -9,7 +9,7 @@
  * http://www.opensource.org/licenses/MIT
  *
  * Based on Julian Aubourg's ajaxHooks xdr.js:
- * https://github.com/jaubourg/ajaxHooks/
+ * https://cdn.lmsdev.auh.police/adcda/github.com/jaubourg/ajaxHooks/
  */
 
 /*jslint unparam: true */

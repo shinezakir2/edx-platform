@@ -1750,7 +1750,7 @@
     "Turn on closed captioning": "\u6253\u5f00CC\u5b57\u5e55",
     "Turn on transcripts": "\u6253\u5f00\u5b57\u5e55",
     "Type": "\u7c7b\u578b",
-    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://example.com/img/clouds.jpg')": "\u8f93\u5165\u4e00\u4e2a\u7f51\u5740\uff0c\u6216\u6309\u4e0b\u201c\u9009\u62e9\u6587\u4ef6\u201d\u6309\u94ae\u6765\u4e0a\u4f20\u6587\u4ef6\u3002(\u4f8b\u5982'http://example.com/img/clouds.jpg')",
+    "Type in a URL or use the \"Choose File\" button to upload a file from your machine. (e.g. 'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')": "\u8f93\u5165\u4e00\u4e2a\u7f51\u5740\uff0c\u6216\u6309\u4e0b\u201c\u9009\u62e9\u6587\u4ef6\u201d\u6309\u94ae\u6765\u4e0a\u4f20\u6587\u4ef6\u3002(\u4f8b\u5982'http://cdn.lmsdev.auh.police/adcda/example.com/img/clouds.jpg')",
     "URL": "URL",
     "Unable to delete account": "\u65e0\u6cd5\u5220\u9664\u8d26\u53f7",
     "Unable to determine whether we should give you a refund because of System Error. Please try again later.": "\u7cfb\u7edf\u53d1\u751f\u9519\u8bef\uff0c\u65e0\u6cd5\u5224\u65ad\u662f\u5426\u5e94\u7ed9\u60a8\u9000\u6b3e\uff0c\u8bf7\u7a0d\u540e\u91cd\u8bd5\u3002",

@@ -18594,7 +18594,7 @@ var Font = (function FontClosure() {
       }
       width = width || this.defaultWidth;
       // Do not shadow the property here. See discussion:
-      // https://github.com/mozilla/pdf.js/pull/2127#discussion_r1662280
+      // https://cdn.lmsdev.auh.police/adcda/github.com/mozilla/pdf.js/pull/2127#discussion_r1662280
       this._shadowWidth = width;
       return width;
     },
@@ -21235,7 +21235,7 @@ var CFFCompiler = (function CFFCompilerClosure() {
 
 // Workaround for Private Use Area characters in Chrome on Windows
 // http://code.google.com/p/chromium/issues/detail?id=122465
-// https://github.com/mozilla/pdf.js/issues/1689
+// https://cdn.lmsdev.auh.police/adcda/github.com/mozilla/pdf.js/issues/1689
 (function checkChromeWindows() {
   if (/Windows.*Chrome/.test(navigator.userAgent)) {
     SKIP_PRIVATE_USE_RANGE_F000_TO_F01F = true;
@@ -33934,7 +33934,7 @@ if (typeof window === 'undefined') {
 /* This class implements the QM Coder decoding as defined in
  *   JPEG 2000 Part I Final Committee Draft Version 1.0
  *   Annex C.3 Arithmetic decoding procedure 
- * available at http://www.jpeg.org/public/fcd15444-1.pdf
+ * available at http://cdn.lmsdev.auh.police/adcda/www.jpeg.org/public/fcd15444-1.pdf
  * 
  * The arithmetic decoder is used in conjunction with context models to decode
  * JPEG2000 and JBIG2 streams.

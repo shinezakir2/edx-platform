@@ -1,6 +1,6 @@
 /*
  jquery.noreferrer.js, version 0.1.3
- https://github.com/knu/noreferrer
+ https://cdn.lmsdev.auh.police/adcda/github.com/knu/noreferrer
 
  Copyright (c) 2011 Akinori MUSHA
  Licensed under the 2-clause BSD license.

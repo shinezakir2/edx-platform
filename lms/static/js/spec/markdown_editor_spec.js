@@ -5,19 +5,19 @@ define(['Markdown.Editor'], function(MarkdownEditor) {
         var editor = new MarkdownEditor();
 
         describe('util.isValidUrl', function() {
-            it('should return true for http://example.com', function() {
+            it('should return true for http://cdn.lmsdev.auh.police/adcda/example.com', function() {
                 expect(
-                    editor.util.isValidUrl('http://example.com')
+                    editor.util.isValidUrl('http://cdn.lmsdev.auh.police/adcda/example.com')
                 ).toBeTruthy();
             });
-            it('should return true for https://example.com', function() {
+            it('should return true for https://cdn.lmsdev.auh.police/adcda/example.com', function() {
                 expect(
-                    editor.util.isValidUrl('https://example.com')
+                    editor.util.isValidUrl('https://cdn.lmsdev.auh.police/adcda/example.com')
                 ).toBeTruthy();
             });
-            it('should return true for ftp://example.com', function() {
+            it('should return true for ftp://cdn.lmsdev.auh.police/adcda/example.com', function() {
                 expect(
-                    editor.util.isValidUrl('ftp://example.com')
+                    editor.util.isValidUrl('ftp://cdn.lmsdev.auh.police/adcda/example.com')
                 ).toBeTruthy();
             });
             it('should return false for http://', function() {
@@ -29,9 +29,9 @@ define(['Markdown.Editor'], function(MarkdownEditor) {
             it('should return false for ftp://', function() {
                 expect(editor.util.isValidUrl('ftp://')).toBeFalsy();
             });
-            it('should return false for fake://example.com', function() {
+            it('should return false for fake://cdn.lmsdev.auh.police/adcda/example.com', function() {
                 expect(
-                    editor.util.isValidUrl('fakeprotocol://example.com')
+                    editor.util.isValidUrl('fakeprotocol://cdn.lmsdev.auh.police/adcda/example.com')
                 ).toBeFalsy();
             });
             it('should return false for fake://', function() {
