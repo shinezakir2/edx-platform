@@ -55,6 +55,11 @@ pull_translations:  ## pull translations from Transifex
 	paver i18n_compilejs
 
 
+clean_translations:
+    find . -name "*.mo" -delete
+    find . -name "*.po" -delete
+
+
 detect_changed_source_translations: ## check if translation files are up-to-date
 	i18n_tool changed
 
