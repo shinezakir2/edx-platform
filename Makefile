@@ -56,8 +56,8 @@ pull_translations:  ## pull translations from Transifex
 
 
 clean_translations:
-    find . -name "*.mo" -delete
-    find . -name "*.po" -delete
+	find . -name "*.mo" -delete
+	find . -name "*.po" -delete
 
 
 detect_changed_source_translations: ## check if translation files are up-to-date
