@@ -57,12 +57,6 @@ babel==2.11.0
     #   enmerkar-underscore
 backoff==1.10.0
     # via analytics-python
-backports-zoneinfo[tzdata]==0.2.1
-    # via
-    #   celery
-    #   django
-    #   icalendar
-    #   kombu
 beautifulsoup4==4.12.2
     # via pynliner
 billiard==4.1.0
@@ -1151,10 +1145,6 @@ typing-extensions==4.8.0
     #   kombu
     #   pylti1p3
     #   snowflake-connector-python
-tzdata==2023.3
-    # via
-    #   backports-zoneinfo
-    #   celery
 unicodecsv==0.14.1
     # via
     #   -r requirements/edx/kernel.in
