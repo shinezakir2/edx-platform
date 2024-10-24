@@ -25691,3 +25691,7 @@ msgstr ""
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py
 msgid "Click on the \"Start Proctored Exam\" button below to continue."
 msgstr "أُنقر على زر \"بدء الامتحان المراقب\" أدناه للمتابعة."
+
+#: themes/adcda_theme/lms/templates/index.html
+msgid "Popular Courses"
+msgstr "الدّورات الأكثر طلباً"
